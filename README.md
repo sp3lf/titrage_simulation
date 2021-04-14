@@ -1,6 +1,6 @@
 En raison du rachat de github par microsoft le projet est migré sur une autre plateforme
 ne voulant pas participer au pillage de la communauté internet par les gafa
-ILS NOUS ONT TRANSFORMER CE SUPERBE OUTILS  EN UN RESEAU COMMERCIAL POURRI ILS SONT POUR MOI COMPARABLE AU PREMIER UTILISATEUR DE LA BOMBE ATOMIQUE
+ILS ONT TRANSFORMé CE SUPERBE OUTILS  EN UN RESEAU COMMERCIAL POURRI ILS SONT POUR MOI COMPARABLE AU PREMIER UTILISATEUR DE LA BOMBE ATOMIQUE
 
 # titrage_simulation
 Logiciel sans prétention de simulation de titrage destiné au cycle 4   ( 12-15) ans en france
